@@ -1,6 +1,6 @@
 # Hi, I'm Toni! 🇭🇷
 
-**I don't want to use GitHub.** I feel like it has become a monopoly for sharing code, and I don't want to support it any longer. 
+**I no longer use GitHub.** I feel like it has become a monopoly for sharing code, and I don't want to support it any longer. 
 
 I will keep this account active in case I want to participate in projects other people host here, but I won't host any of my new projects here.
 
@@ -9,5 +9,5 @@ I will keep this account active in case I want to participate in projects other 
 ---
 Additionally, you can also contact me on:
 - Mastodon: [@toni@octodon.social](https://octodon.social/@toni)
-- Email - toni@kukec.dev
-- A currently non-existant website: https://kukec.dev
+- Email: toni@kukec.dev
+- Website: https://kukec.dev
